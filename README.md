@@ -1,3 +1,7 @@
 # swift-http-example
 
-A description of this package.
+```
+% swift build
+
+% ./.build/debug/swift-http-example
+```
